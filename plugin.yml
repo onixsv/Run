@@ -1,0 +1,10 @@
+name: Run
+author: alvin0319
+main: Run\RunPlugin
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  달리기:
+    description: 달리기 게임 명령어입니다.
+    aliases: [ "run" ]
